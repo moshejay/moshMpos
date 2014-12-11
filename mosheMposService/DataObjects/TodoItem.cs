@@ -1,4 +1,5 @@
-﻿using Microsoft.WindowsAzure.Mobile.Service;
+﻿//seeing how this gets added
+using Microsoft.WindowsAzure.Mobile.Service;
 
 namespace mosheMposService.DataObjects
 {
