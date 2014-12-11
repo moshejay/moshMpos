@@ -95,6 +95,8 @@ Build
 UpgradeLog*.xml
 _sgbak/
 *.zip
+bin/
 Backup/
+packages/
 _UpgradeReport_Files/
 *@*;*.cs*
